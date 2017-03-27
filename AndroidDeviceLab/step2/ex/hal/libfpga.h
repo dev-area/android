@@ -8,7 +8,7 @@
 
 __BEGIN_DECLS
 
-#define MYFPGA_HARDWARE_MODULE_ID "fpgadev"
+#define MYFPGA_HARDWARE_MODULE_ID "myfpga"
 
 struct fpga_device_t {
   struct hw_device_t common;
