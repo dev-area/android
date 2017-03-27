@@ -1,0 +1,5 @@
+# cache for current jar dependecy. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378841509000 393153 61797b27e59a89da9196822239325afcb090f9b2 /home/developer/workspace/ShmService/libs/android-support-v4.jar
+1378820835000 393153 61797b27e59a89da9196822239325afcb090f9b2 /home/developer/workspace/ShmCommon/libs/android-support-v4.jar
