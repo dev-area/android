@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <TextView
+    android:id="@+id/status_text"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:text="Click the button"
+    android:paddingTop="20dip" />
+  <ProgressBar
+    android:id="@+id/progress_bar"
+    android:layout_width="fill_parent"
+    android:layout_height="40dip"
+    android:indeterminate="false"
+    style="?android:attr/progressBarStyleHorizontal"
+    android:padding="10dip" />
+  <Button
+    android:id="@+id/schedule_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Schedule some tasks"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="20dip"
+    android:padding="14dip" />
+</LinearLayout>
